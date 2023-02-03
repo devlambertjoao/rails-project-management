@@ -8,6 +8,10 @@ Things you may want to cover:
 * Ruby version
 
 * System dependencies
+- devise
+1. rails g devise:views
+2. rails g devise:views
+3. rails g devise User
 
 * Configuration
 
